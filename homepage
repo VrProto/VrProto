@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name | Design Engineer</title>
+    <title>Vojtech Ruzicka | Design Engineer</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Vojtech Ruzicka</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
@@ -21,7 +21,9 @@
 
     <section class="intro">
         <h2>Welcome to My Portfolio</h2>
-        <p>I’m a design engineer with a passion for creating innovative solutions. Check out my projects below!</p>
+        <p>I’m a design engineer with a passion for cars and manufacturing machinery. Combination of this two subjects is my dream job and i try to pursue it every day.
+            My main focus is reverse engineering 3D scanned geometry of cars and everything related. Current main goal is to learn Geomagic Design X and Autodesk Alias.
+            Design X for engineering individual parts and ALias for all kinds of surfaces. Check out my projects below!</p>
     </section>
 
     <footer>
